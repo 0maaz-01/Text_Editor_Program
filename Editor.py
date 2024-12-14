@@ -71,8 +71,6 @@ def quit():
 window = Tk()
 window.title("Text Editor Program")
 file = None
-icon = PhotoImage(file = "C:\\Users\\alize\\Desktop\\Logo\\Text Editor.png")
-window.iconphoto(True, icon)
 
 window_width= 500
 window_height = 500
