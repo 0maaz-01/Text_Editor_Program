@@ -40,7 +40,7 @@ To run this program, ensure you have the following installed:
 ---
 
 ## Screenshots
-Add screenshots of the program window showcasing its features.
+<img src="https://github.com/0maaz-01/Text_Editor_Program/blob/main/Images/B.png" width="600" height="800">
 
 ---
 
@@ -49,4 +49,4 @@ This program was created by me in my initial days of coding as a beginner-friend
 
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the MIT License -- https://github.com/0maaz-01/Text_Editor_Program?tab=MIT-1-ov-file
